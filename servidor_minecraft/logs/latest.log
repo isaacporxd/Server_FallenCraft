@@ -93,3 +93,13 @@
 [19Mar2025 02:35:00.775] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [19Mar2025 02:37:30.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: isaacporxd[/127.255.191.73:44909] logged in with entity id 372 at (-28.5, 63.0, 4.5)
 [19Mar2025 02:37:30.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isaacporxd joined the game
+[19Mar2025 02:46:56.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: isaacporxd lost connection: Disconnected
+[19Mar2025 02:46:56.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isaacporxd left the game
+[19Mar2025 02:46:58.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: isaacporxd[/127.255.191.73:54395] logged in with entity id 1761 at (-48.69999998807907, 62.0, 1.699999988079071)
+[19Mar2025 02:46:58.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isaacporxd joined the game
+[19Mar2025 02:47:01.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: isaacporxd lost connection: Disconnected
+[19Mar2025 02:47:01.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isaacporxd left the game
+[19Mar2025 02:47:57.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Mar2025 02:47:57.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[19Mar2025 02:49:02.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Mar2025 02:49:02.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
